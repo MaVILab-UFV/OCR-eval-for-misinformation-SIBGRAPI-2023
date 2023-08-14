@@ -1,5 +1,5 @@
 # OCR-eval-for-misinformation-SIBGRAPI-2023
-
+![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/Illustrations%20for%20the%20readme/Exemplos.jpg?raw=true)
 
 
 # Institution
@@ -24,7 +24,7 @@ Julio Reis (Professor at the Federal University of Viçosa) - email: jreis@ufv.b
 _________________________________________________________________________________________________
 MaVILab: Machine Vision and Intelligence Laboratory https://mavilab-ufv.github.io/
 
-![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/Ilustra%C3%A7%C3%B5es%20para%20o%20readme/Logomarcas.png?raw=true)
+![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/Illustrations%20for%20the%20readme/Logomarcas.png?raw=true)
 
 # Acknowledgment
 _________________________________________________________________________________________________
