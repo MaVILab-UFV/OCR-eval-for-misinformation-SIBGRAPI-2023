@@ -1,6 +1,15 @@
 # OCR-eval-for-misinformation-SIBGRAPI-2023
 ![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/Illustrations%20for%20the%20readme/Exemplos.jpg?raw=true)
 
+This repository contains the regex manipulation scripts as well as the dataset used in the article "Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese" published in SIBGRAPI 2023 - Conference on Graphics, Patterns and Images.
+
+In this work we present the creation of a repository containing VALOR synthetic images, generated with features commonly found on digital platforms, and which contains disinformation presented in the Portuguese language, as well as an evaluation of Optical Character Recognition (OCR) systems. We hope it can be useful for studies in different contexts, such as containing and moderating misinformation.
+
+The "Regex Extractor" directory contains the script for manipulating the regex data. The "Generador-de-imagens-main" directory contains the scripts for producing and collecting statistical data from the repository as well as the FACTCK.BR textual repository embedded for inserting text in images.
+
+If this contribution is useful to you, please cite our article:
+
+@article{Santos_2023, title={Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese}, author={Yago Santos and Michel M. Silva and Julio C. R. Reis}, journal={SIBGRAPI - Conference on Graphics, Patterns and Images, Rio Grande, 2023}, year={2023} }
 
 # Institution
 _________________________________________________________________________________________________
@@ -29,3 +38,19 @@ MaVILab: Machine Vision and Intelligence Laboratory https://mavilab-ufv.github.i
 # Acknowledgment
 _________________________________________________________________________________________________
 This work was partially funded by CAPES, CNPq, and FAPEMIG.
+
+# Discover our other works
+_________________________________________________________________________________________________
+* ImageFactCk.BR: Repositório de Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais
+
+Abstract:
+
+With the emergence of social media and instant messaging applications, the dissemination of textual information through images has become increasingly popular. Concurrently, this type of media has been extensively exploited for spreading misinformation. Images with textual content possess several peculiar characteristics that pose numerous challenges for tools focused on content containment and moderation. In this context, we present a data repository namely ImageFactCK.BR. It contains 12,209 synthetic images generated with features commonly found on digital platforms, and that contain misinformation presented in the Portuguese language. We hope it can be useful for studies in different contexts.
+
+@article{Santos_2023,
+  title={ImageFactCk.BR: Repositório de 
+  Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais},
+  author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
+  journal={SIMPÓSIO BRASILEIRO DE BANCO DE DADOS, Belo Horizonte, 2023},
+  year={2023}
+}
