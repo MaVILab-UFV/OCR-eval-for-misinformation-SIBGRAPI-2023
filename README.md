@@ -3,7 +3,7 @@
 
 This repository contains the regex manipulation scripts as well as the dataset used in the article "Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese" published in SIBGRAPI 2023 - Conference on Graphics, Patterns and Images.
 
-In this work we present the creation of a repository containing VALOR synthetic images, generated with features commonly found on digital platforms, and which contains disinformation presented in the Portuguese language, as well as an evaluation of Optical Character Recognition (OCR) systems. We hope it can be useful for studies in different contexts, such as containing and moderating misinformation.
+In this work we present the creation of a repository containing PREENCHER synthetic images, generated with features commonly found on digital platforms, and which contains disinformation presented in the Portuguese language, as well as an evaluation of Optical Character Recognition (OCR) systems. We hope it can be useful for studies in different contexts, such as containing and moderating misinformation.
 
 The "Regex Extractor" directory contains the script for manipulating the regex data. The "Generador-de-imagens-main" directory contains the scripts for producing and collecting statistical data from the repository as well as the FACTCK.BR textual repository embedded for inserting text in images.
 
