@@ -2,30 +2,30 @@
 
 
 
-# Instituição
+# Institution
 _________________________________________________________________________________________________
-Universitade Federal de Viçosa - Campus Viçosa - Minas Gerais - Brasil: https://www.ufv.br/
+Federal University of Viçosa - Campus Viçosa - Minas Gerais - Brasil: https://www.ufv.br/
 
-Departamento de Informática: https://www2.dpi.ufv.br/
+Department of Computing: https://www2.dpi.ufv.br/
 
-Campus Universitário
+University campus
 
 36570-900, Viçosa, MG – Brasil
 
-# Contato
+# Contact
 _________________________________________________________________________________________________
-Yago Santos (Mestrando - UFV) - email: yago.santos@ufv.br
+Yago Santos (Master's student at the Federal University of Viçosa) - email: yago.santos@ufv.br
 
-Michel Silva (Professor da Universidade Federal de Viçosa) - email: michel.m.silva@ufv.br
+Michel Silva (Professor at the Federal University of Viçosa) - email: michel.m.silva@ufv.br
 
-Julio Reis (Professor da Universidade Federal de Viçosa) - email: jreis@ufv.br
+Julio Reis (Professor at the Federal University of Viçosa) - email: jreis@ufv.br
 
-# Laboratório
+# Laboratory
 _________________________________________________________________________________________________
-MaVILab: Laboratório de Visão de Máquina e Inteligência https://mavilab-ufv.github.io/
+MaVILab: Machine Vision and Intelligence Laboratory https://mavilab-ufv.github.io/
 
 ![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/Ilustra%C3%A7%C3%B5es%20para%20o%20readme/Logomarcas.png?raw=true)
 
-# Agradecimentos
+# Acknowledgment
 _________________________________________________________________________________________________
-Este trabalho foi parcialmente financiado por CAPES, CNPq e FAPEMIG.
+This work was partially funded by CAPES, CNPq, and FAPEMIG.
