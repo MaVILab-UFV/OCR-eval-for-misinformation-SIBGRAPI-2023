@@ -1,4 +1,4 @@
-# OCR-eval-for-misinformation-SIBGRAPI-2023
+# Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese
 ![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/Illustrations%20for%20the%20readme/Exemplos.jpg?raw=true)
 
 This repository contains the regex manipulation scripts as well as the dataset used in the article "Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese" published in SIBGRAPI 2023 - Conference on Graphics, Patterns and Images.
@@ -30,7 +30,7 @@ University campus
 _________________________________________________________________________________________________
 Yago Santos (Master's student at the Federal University of Viçosa) - email: yago.santos@ufv.br
 
-Michel Silva (Professor at the Federal University of Viçosa) - email: michel.m.silva@ufv.br
+[Michel Silva](https://michelmelosilva.github.io/) (Professor at the Federal University of Viçosa) - email: michel.m.silva@ufv.br
 
 Julio Reis (Professor at the Federal University of Viçosa) - email: jreis@ufv.br
 
@@ -46,7 +46,7 @@ This work was partially funded by CAPES, CNPq, and FAPEMIG.
 
 # Discover our other works
 _________________________________________________________________________________________________
-* ImageFactCk.BR: Repositório de Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais
+* [ImageFactCk.BR: Repositório de Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023) @ SBBD-DSW 2023
 
 Abstract:
 
