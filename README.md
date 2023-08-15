@@ -22,8 +22,8 @@ If this contribution is useful to you, please cite our article:
 
 # Institution  
 
-Federal University of Viçosa - Campus Viçosa - Minas Gerais - Brasil: https://www.ufv.br/  
-Department of Computing: https://www2.dpi.ufv.br/  
+Federal University of Viçosa - Campus Viçosa - Minas Gerais - Brasil: [access](https://www.ufv.br/)  
+Department of Computing: [access](https://www2.dpi.ufv.br/)  
 University campus  
 36570-900, Viçosa, MG – Brasil  
 
