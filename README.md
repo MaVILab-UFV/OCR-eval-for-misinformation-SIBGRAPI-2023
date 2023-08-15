@@ -1,5 +1,5 @@
 # Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese
-![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/Illustrations%20for%20the%20readme/Exemplos.jpg?raw=true)
+![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/resources/Exemplos.jpg?raw=true)
 
 This repository contains the regex manipulation scripts as well as the dataset used in the article "Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese" published in SIBGRAPI 2023 - Conference on Graphics, Patterns and Images.
 
@@ -38,7 +38,7 @@ Julio Reis (Professor at the Federal University of Viçosa) - email: jreis@ufv.b
 _________________________________________________________________________________________________
 MaVILab: Machine Vision and Intelligence Laboratory https://mavilab-ufv.github.io/
 
-![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/Illustrations%20for%20the%20readme/Logomarcas.png?raw=true)
+![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/resources/Logomarcas.png?raw=true)
 
 # Acknowledgment
 _________________________________________________________________________________________________
