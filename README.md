@@ -1,4 +1,4 @@
-# Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese
+<h1>Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese</h1>
 ![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/resources/Exemplos.jpg?raw=true)
 
 This repository contains the regex manipulation scripts as well as the dataset used in the article "Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese" published in SIBGRAPI 2023 - Conference on Graphics, Patterns and Images.
