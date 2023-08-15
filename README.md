@@ -4,7 +4,7 @@
 
 This repository contains the regex manipulation scripts as well as the dataset used in the article "Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese" published in SIBGRAPI 2023 - Conference on Graphics, Patterns and Images.
 
-In this work we present the creation of a repository containing 52,525 synthetic images, generated with resources commonly found on digital platforms, and which contains disinformation presented in Portuguese, as well as an evaluation of Optical Character Recognition (OCR) systems. We hope it can be useful for studies in different contexts, such as containing and moderating misinformation. The dataset can be accessed through the link: DOI: https://doi.org/10.5281/zenodo.8247981
+In this work we present the creation of a repository containing 52,525 synthetic images, generated with resources commonly found on digital platforms, and which contains disinformation presented in Portuguese, as well as an evaluation of Optical Character Recognition (OCR) systems. We hope it can be useful for studies in different contexts, such as containing and moderating misinformation. The dataset can be accessed by clicking [here](https://doi.org/10.5281/zenodo.8247981).
 
 The "Regex Extractor" directory contains the script for manipulating the regex data. The "Generador-de-imagens-main" directory contains the scripts for producing and collecting statistical data from the repository as well as the FACTCK.BR textual repository embedded for inserting text in images.
 
@@ -39,7 +39,7 @@ Julio Reis (Professor at the Federal University of Viçosa) - email: jreis@ufv.b
 
 # Laboratory  
 
-MaVILab: Machine Vision and Intelligence Laboratory https://mavilab-ufv.github.io/  
+[MaVILab:](https://mavilab-ufv.github.io/) Machine Vision and Intelligence Laboratory.    
 ![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/resources/Logomarcas.png?raw=true)
 
 ---
