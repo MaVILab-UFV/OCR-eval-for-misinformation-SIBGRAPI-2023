@@ -32,7 +32,7 @@ University campus
 # Contact  
 
 Yago Santos (Master's student at the Federal University of Viçosa) - email: yago.santos@ufv.br  
-Michel Silva (https://michelmelosilva.github.io/) (Professor at the Federal University of Viçosa) - email: michel.m.silva@ufv.br  
+[Michel Silva] (https://michelmelosilva.github.io/) (Professor at the Federal University of Viçosa) - email: michel.m.silva@ufv.br  
 Julio Reis (Professor at the Federal University of Viçosa) - email: jreis@ufv.br  
 
 ---
