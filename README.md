@@ -11,11 +11,18 @@ The "Regex Extractor" directory contains the script for manipulating the regex d
 If this contribution is useful to you, please cite our article:
 
 ```
-@article{Santos_2023,
-  title={Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese},
+@INPROCEEDINGS{Santos_2023_Sibgrapi,
   author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
-  journal={SIBGRAPI - Conference on Graphics, Patterns and Images, Rio Grande, 2023},
-  year={2023} }
+  booktitle={36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
+  title={Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese}, 
+  month = {TO APPEAR},
+  year={},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+}
+
 ```
 
 ---
