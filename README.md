@@ -22,10 +22,9 @@ If this contribution is useful to you, please cite our article:
 
 # Institution  
 
-Federal University of Viçosa - Campus Viçosa - Minas Gerais - Brasil: [access](https://www.ufv.br/)  
-Department of Computing: [access](https://www2.dpi.ufv.br/)  
-University campus  
-36570-900, Viçosa, MG – Brasil  
+[Universidade Federal de Viçosa](https://www.ufv.br/)   
+[Department of Informatics](https://www2.dpi.ufv.br/)  
+36570-900, Viçosa, MG – Brazil  
 
 ---
 
@@ -39,14 +38,14 @@ Julio Reis (Professor at the Federal University of Viçosa) - email: jreis@ufv.b
 
 # Laboratory  
 
-[MaVILab:](https://mavilab-ufv.github.io/) Machine Vision and Intelligence Laboratory.    
+[MaVILab: Machine Vision and Intelligence Laboratory](https://mavilab-ufv.github.io/).    
 ![alt text](https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023/blob/main/resources/Logomarcas.png?raw=true)
 
 ---
 
 # Acknowledgment  
 
-This work was partially funded by CAPES, CNPq, and FAPEMIG.  
+This work was funded by CAPES, CNPq, and FAPEMIG.  
 
 ---
 
