@@ -65,12 +65,17 @@ This work was funded by CAPES, CNPq, and FAPEMIG.
   With the emergence of social media and instant messaging applications, the dissemination of textual information through images has become increasingly popular. Concurrently, this type of media has been extensively exploited for spreading misinformation. Images with textual content possess several peculiar characteristics that pose numerous challenges for tools focused on content containment and moderation. In this context, we present a data repository namely ImageFactCK.BR. It contains 12,209 synthetic images generated with features commonly found on digital platforms, and that contain misinformation presented in the Portuguese language. We hope it can be useful for studies in different contexts.
   
   ```
-  @article{Santos_2023,
-    title={ImageFactCk.BR: Repositório de 
-    Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais},
+  @INPROCEEDINGS{Santos_2023,
     author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
-    journal={SIMPÓSIO BRASILEIRO DE BANCO DE DADOS, Belo Horizonte, 2023},
-    year={2023}
+    booktitle={SIMPÓSIO BRASILEIRO DE BANCO DE DADOS}, 
+    title={ImageFactCk.BR: Repositório de 
+    Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais}, 
+    month = {TO APPEAR},
+    year={},
+    volume={},
+    number={},
+    pages={},
+    doi={}
   }
   ```
 
