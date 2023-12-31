@@ -11,16 +11,13 @@ The "Regex Extractor" directory contains the script for manipulating the regex d
 If this contribution is useful to you, please cite our article:
 
 ```
-@INPROCEEDINGS{Santos_2023_Sibgrapi,
-  author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
-  booktitle={36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
-  title={Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese}, 
-  month = {TO APPEAR},
-  year={},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+@inproceedings{santos2023evaluation,
+  title={Evaluation of optical character recognition (OCR) systems dealing with misinformation in Portuguese},
+  author={Santos, Yago and Silva, Michel and Reis, Julio CS},
+  booktitle={2023 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)},
+  pages={223--228},
+  year={2023},
+  organization={IEEE}
 }
 
 ```
@@ -65,17 +62,13 @@ This work was funded by CAPES, CNPq, and FAPEMIG.
   With the emergence of social media and instant messaging applications, the dissemination of textual information through images has become increasingly popular. Concurrently, this type of media has been extensively exploited for spreading misinformation. Images with textual content possess several peculiar characteristics that pose numerous challenges for tools focused on content containment and moderation. In this context, we present a data repository namely ImageFactCK.BR. It contains 12,209 synthetic images generated with features commonly found on digital platforms, and that contain misinformation presented in the Portuguese language. We hope it can be useful for studies in different contexts.
   
   ```
-  @INPROCEEDINGS{Santos_2023_SBBD,
-    author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
-    booktitle={SIMPÓSIO BRASILEIRO DE BANCO DE DADOS}, 
-    title={ImageFactCk.BR: Repositório de 
-    Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais}, 
-    month = {TO APPEAR},
-    year={},
-    volume={},
-    number={},
-    pages={},
-    doi={}
+  @inproceedings{santos2023imagefactck,
+    title={ImageFactCk. BR: Reposit{\'o}rio de Imagens para a Detec{\c{c}}{\~a}o de Desinforma{\c{c}}{\~a}o Disseminada em Plataformas Digitais},
+    author={Santos, Yago and Silva, Michel M and Reis, Julio CS},
+    booktitle={Anais do V Dataset Showcase Workshop},
+    pages={87--98},
+    year={2023},
+    organization={SBC}
   }
   ```
 
